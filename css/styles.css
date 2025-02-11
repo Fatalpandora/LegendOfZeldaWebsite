@@ -10,6 +10,9 @@ header {
     text-align: center;
     padding: 1em;
 }
+h2 {
+    text-align: center;
+}
 main {
     padding: 20px;
 }
@@ -29,6 +32,17 @@ section {
 .game img {
     width: 100px;
     height: auto;
+    border-radius: 5px;
+}
+.button {
+    display: block;
+    width: 150px;
+    text-align: center;
+    margin: 20px auto;
+    padding: 10px;
+    background: #2a7d2e;
+    color: white;
+    text-decoration: none;
     border-radius: 5px;
 }
 footer {
